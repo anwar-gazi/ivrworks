@@ -1,0 +1,9 @@
+env/
+packages/
+upload/*
+!upload/.gitkeep
+.idea/
+*.pyc
+logs/*.log
+*.pid
+*.db
