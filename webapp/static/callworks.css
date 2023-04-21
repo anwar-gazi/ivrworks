@@ -1,0 +1,4 @@
+.bg-login-image {
+    background: url("/static/img/hagia-sofia-square.jpg") center;
+    background-size: cover;
+}
