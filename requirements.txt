@@ -7,7 +7,7 @@ chardet==3.0.4
 decorator==4.2.1
 dj-database-url==0.4.2
 Django==1.11.7
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 gunicorn==19.7.1
 idna==2.6
 kombu==4.1.0
