@@ -11,7 +11,7 @@ django-debug-toolbar==1.9.1
 gunicorn==19.7.1
 idna==2.6
 kombu==4.1.0
-lxml==3.8.0
+lxml==4.9.1
 plivo==4.1.0
 psycopg2==2.7.3.2
 PyJWT==1.6.1
